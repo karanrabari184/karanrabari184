@@ -31,13 +31,14 @@ Tools: Git · GitHub · Postman · Vite
 
 Built with React, Node.js, Express, and MongoDB.
 Add your strongest features, authentication details, and a live demo.
-Live Demo · Source Code
+Live Demo · https://craveo-food-reels-d9mq.onrender.com/
 
-2. AI Battle Arena
+2. Perplexity GenAI – Real-Time AI Chat Platform
 
-An AI-focused project integrating multiple language models.
-Describe the architecture, key challenges, and what you learned.
-Source Code
+ a MERN full-stack AI chat platform: React frontend, Express REST APIs organised into routes, controllers, services,
+and middleware, and MongoDB/Mongoose persistence for users, chats, and messages with multiple conversations, history, and
+deletion.
+Live Demo · https://perplexity-genai-karan.onrender.com/
 
 3. RAG PDF Processor
 
